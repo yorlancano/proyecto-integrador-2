@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vh;
+    background-color: white;
+}
+.container1{
+    height: 700px;
+    width: 500px;
+    background-color: rgb(53, 219, 211);
+    border-radius: 20px;
+
+}
+.container2{
+    padding: 30%;
+    margin: 5%;
+    height: 700px
+}
+.Formulario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+}
+.input1{
+    border-color: #148a84;
+    width: 380px;
+    height: 40px;
+    border-radius: 10px;
+}
+.input2{
+    border-color: #148a84;
+    width: 380px;
+    height: 40px;
+    border-radius: 10px;
+}
+.bottom{
+    background-color: #148a84;
+    width: 380px;
+}
